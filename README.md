@@ -4,11 +4,32 @@
 Olympic Historical DataSet
 --------------------------------------------------------
 --------------------------------------------------------
+
 ## Framework and Language Used in this Project
 - Python
 - SQL
 - PySpark
 - Pandas
+
+## Introduction
+The Olympics are regarded as a major athletic event in which thousands of competitors from all over the world compete in a range of events. Nations from all over the world compete, and the Olympic games are often regarded as the world's most popular sporting event. Data Science and Machine Learning techniques will be of significant assistance in the decision-making processes of trainers, players, and governments in these countries.
+
+The findings may be used to highlight the need for new policies to increase the quality of physical education in a country. According to the data, a variety of factors contribute to these countries' performance in the games.
+
+The following dataset contains information about olympic events that occurred between 2000 and 2012. Summer and winter olympic sports are also included. The dataset has a total of ten features. 
+                        There are 8618 observations.
+
+                        Players' names, ages, countries, medal types, and total medals earned are all included in the data collection.
+                        
+                        The dataset also assume Madel won in group sports also as individual Medal for each player.
+
+                        A single player can play many games.
+
+                        Year - The year in which a certain olympic event took place.
+
+                        Date Given - The date on which a sporting event will take place.
+
+                        Same A player can compete in a number of Olympic events.
 
 ## Follwowing Steps Are Performed in this Project
 1. Data Cleaning / Preprocessing - Pandas
